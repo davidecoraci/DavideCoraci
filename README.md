@@ -22,6 +22,7 @@ https://doi.org/10.3390/en14102933
 Coraci, D.; Brandi, S.; Piscitelli, M.S.; Capozzoli, A. Online Implementation of a Soft Actor-Critic Agent to Enhance Indoor Temperature Control and Energy Efficiency in Buildings. Energies, 14, 997 (2021). 
 https://doi.org/10.3390/en14040997
   
+<br>
 </details>
 
 
