@@ -31,7 +31,7 @@ https://doi.org/10.3390/en14040997
 [<img align="left" alt="Davide Coraci | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Davide Coraci | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Davide Coraci | Research Gate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
-[<img align="left" alt="Davide Coraci | Research Gate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][googlescholar]
+[<img align="left" alt="Davide Coraci | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][googlescholar]
 [<img align="left" alt="Davide Coraci | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
