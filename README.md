@@ -36,7 +36,7 @@ https://doi.org/10.3390/en14040997
 
 
 [googlescholar]: https://scholar.google.com/citations?user=GvuNb0UAAAAJ&hl=it
-[email]: mailto:coracidavide96@gmail.com
+[gmail]: mailto:coracidavide96@gmail.com
 [github]: https://github.com/davidecoraci
 [linkedin]: https://www.linkedin.com/in/davide-coraci-729177153/
 [researchgate]: https://www.researchgate.net/profile/Davide-Coraci
