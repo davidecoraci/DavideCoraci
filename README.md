@@ -9,6 +9,7 @@ I am actually involved in projects dealing with the exploitation of transfer lea
 <details>
   <summary>Check my Publications</summary>
   <br>
+
 JOURNAL PUBLICATIONS:
   
 Coraci, D.; Brandi, S.; Hong, T.; Capozzoli, A. An innovative heterogeneous transfer learning framework to enhance the scalability of deep reinforcement learning controllers in buildings with 
