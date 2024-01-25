@@ -10,6 +10,7 @@ I am actually involved in projects dealing with the exploitation of transfer lea
   <summary>Check my Publications</summary>
   <br>
 JOURNAL PUBLICATIONS:
+  
 Coraci, D.; Brandi, S.; Hong, T.; Capozzoli, A. An innovative heterogeneous transfer learning framework to enhance the scalability of deep reinforcement learning controllers in buildings with 
 integrated energy systems. Accepted for publication in Building Simulation (2024).
 
@@ -26,6 +27,7 @@ Coraci, D.; Brandi, S.; Piscitelli, M.S.; Capozzoli, A. Online Implementation of
 https://doi.org/10.3390/en14040997.
 
 CONFERENCES PUBLICATIONS:
+
 Silvestri, A.; Coraci, D.; Wu, D.; Borkowski, E; Schlueter, A. Comparison of two deep reinforcement learning algorithms towards an optimal policy for smart building thermal control. Journal of Physics: 
 Conference Series (CISBAT 23), vol 2600, 7, 072011 (2023). https://dx.doi.org/10.1088/1742-6596/2600/7/072011
 
