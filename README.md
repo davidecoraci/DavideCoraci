@@ -11,9 +11,11 @@ I am actually involved in projects dealing with the exploitation of transfer lea
   <br>
 
 JOURNAL PUBLICATIONS:
+
+Silvestri, A.; Coraci, D.; Brandi, S.; Capozzoli, A.; Borkowski, E.; Köhler, J.; Wu, D.; Zeilinger, M.N.; Schlueter, A. Real building implementation of a deep reinforcement learning controller to enhance energy efficiency and indoor temperature control. Applied Energy, 368, 123447 (2024). https://doi.org/10.1016/j.apenergy.2024.123447.
   
 Coraci, D.; Brandi, S.; Hong, T.; Capozzoli, A. An innovative heterogeneous transfer learning framework to enhance the scalability of deep reinforcement learning controllers in buildings with 
-integrated energy systems. Accepted for publication in Building Simulation (2024).
+integrated energy systems. Building Simulation 17 (5), 739-770 (2024). https://doi.org/10.1007/s12273-024-1109-6.
 
 Coraci, D.; Brandi, S.; Capozzoli, A. Effective pre-training of a deep reinforcement learning agent by means of long short-term memory models for thermal energy management in buildings. 
 Energy Conversion and Management, 291, 117303 (2023). https://doi.org/10.1016/j.enconman.2023.117303.
@@ -29,11 +31,11 @@ https://doi.org/10.3390/en14040997.
 
 CONFERENCES PUBLICATIONS:
 
-Silvestri, A.; Coraci, D.; Wu, D.; Borkowski, E; Schlueter, A. Comparison of two deep reinforcement learning algorithms towards an optimal policy for smart building thermal control. Journal of Physics: 
-Conference Series (CISBAT 23), vol 2600, 7, 072011 (2023). https://dx.doi.org/10.1088/1742-6596/2600/7/072011
+Silvestri, A.; Coraci, D.; Brandi, S.; Capozzoli, A; Schlueter, A. Practical deployment of Reinforcement Learning for building controls using an Imitation Learning approach. Accepted at 19th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES) (2024).
 
-Coraci, D.; Brandi, S.; Capozzoli, A. Effective pre-training of a Deep Reinforcement Learning agent by means of Long Short-Term Memory models for thermal energy management in buildings. In: 17th Conference on 
-Sustainable Development of Energy, Water and Environment Systems (SDEWES) (2022).
+Silvestri, A.; Coraci, D.; Wu, D.; Borkowski, E; Schlueter, A. Comparison of two deep reinforcement learning algorithms towards an optimal policy for smart building thermal control. Journal of Physics: Conference Series (CISBAT 23), vol 2600, 7, 072011 (2023). https://dx.doi.org/10.1088/1742-6596/2600/7/072011
+
+Coraci, D.; Brandi, S.; Capozzoli, A. Effective pre-training of a Deep Reinforcement Learning agent by means of Long Short-Term Memory models for thermal energy management in buildings. In: 17th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES) (2022).
 
 Brandi, S.; Coraci, D.; Borello, D.; Capozzoli, A. Energy Management of a Residential Heating System Through Deep Reinforcement Learning. In: Littlewood, J.R., Howlett, R.J., Jain, L.C. (eds) Sustainability in Energy and Buildings 2021. 
 Smart Innovation, Systems and Technologies, vol 263 (2022) Springer, Singapore. https://doi.org/10.1007/978-981-16-6269-0_28
