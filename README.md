@@ -1,10 +1,11 @@
 
 ### Hello everybody, I'm Davide
 
+I am a Research AI Engineer at EnergyWise. Our current mission at EnergyWise is to make buildings more energy efficient, avoiding massive energy waste while keeping spaces comfortable and healthy. In this framework, my work is related to the implementation of Artificial Intelligence based strategies for enhancing energy efficiency and indoor conditions for occupants in buildings.
 
-I am an Energy and Nuclear Engineer, PhD Student at [BAEDA Lab](https://www.baeda.polito.it/) at the [Department of Energy](https://www.denerg.polito.it/) of [Politecnico di Torino](https://www.polito.it/). 
+I am an Energy and Nuclear Engineer, PhD Candidate in Energetics at [BAEDA Lab](https://www.baeda.polito.it/) at the [Department of Energy](https://www.denerg.polito.it/) of [Politecnico di Torino](https://www.polito.it/). 
 
-I am actually involved in projects dealing with the exploitation of transfer learning techniques to enhance the scalability of advanced control strategies in buildings.
+My PhD research deals with the exploitation of transfer learning techniques to enhance the scalability of advanced control strategies in buildings.
 
 <details>
   <summary>Check my Publications</summary>
